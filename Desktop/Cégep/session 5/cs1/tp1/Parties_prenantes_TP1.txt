@@ -1,0 +1,30 @@
+10 Parties prenantes
+---------------------
+
+Benoît
+Président de Hontrète Dézuile
+
+Richard
+Spécialiste en informatique chez Hontrète Dézuile
+
+Mélanie
+Chef des opérations chez Hontrète Dézuile
+
+Pierre
+Opérateur du Parc Vertical
+
+Jean
+Opérateur du Parc Horizontal
+
+René et Jean-Pierre
+Opérateurs du Parc Intérieur
+
+Jonathan
+Chargé de projet pour les panneaux
+
+Kévin
+Expert pour les modules 4-20 mA vers Modbus TCP/IP
+
+Alex
+Expert pour les sondes de niveau qui envoi le 4-20 mA
+

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<ModelSettings xmlns:Serlio="http://www.serliosoft.com/modelsettings">
+  <PackageId>P-2c33fd22-ffea-4303-a1b2-181ccca614f5</PackageId>
+  <ShowDescendants>true</ShowDescendants>
+  <ProjectOpenedTabName>pgStart</ProjectOpenedTabName>
+  <Sorting>
+    <UseCaseViewSortColumns>
+      <string>Priority</string>
+      <string />
+      <string />
+    </UseCaseViewSortColumns>
+    <UseCaseViewSortOrder>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </UseCaseViewSortOrder>
+    <ActorViewSortColumns>
+      <string>Package</string>
+      <string />
+      <string />
+    </ActorViewSortColumns>
+    <ActorViewSortOrder>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </ActorViewSortOrder>
+    <StoryViewSortColumns>
+      <string>Name</string>
+      <string />
+      <string />
+    </StoryViewSortColumns>
+    <StoryViewSortOrder>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </StoryViewSortOrder>
+    <RequirementViewSortColumns>
+      <string>Name</string>
+      <string />
+      <string />
+    </RequirementViewSortColumns>
+    <RequirementViewSortOrder>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </RequirementViewSortOrder>
+    <IssueViewSortColumns>
+      <string>Description</string>
+      <string />
+      <string />
+    </IssueViewSortColumns>
+    <IssueViewSortOrder>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </IssueViewSortOrder>
+    <DictionaryViewSortColumns>
+      <string>Name</string>
+      <string />
+      <string />
+    </DictionaryViewSortColumns>
+    <DictionaryViewSortOrder>
+      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+    </DictionaryViewSortOrder>
+  </Sorting>
+  <UCList>
+    <Columns>Name,UserID,PrimaryActor,Priority,Package</Columns>
+    <ColumnWidths>302,57,100,80,125</ColumnWidths>
+  </UCList>
+  <ActorList>
+    <Columns>Name,UserID,Package</Columns>
+    <ColumnWidths>408,60,125</ColumnWidths>
+  </ActorList>
+  <StoryList>
+    <Columns>Name,UserID,Status,Priority,Package</Columns>
+    <ColumnWidths>314,57,80,80,125</ColumnWidths>
+  </StoryList>
+  <RequirementList>
+    <Columns>Name,UserID,ReqType,Priority,Package</Columns>
+    <ColumnWidths>350,65,91,63,89</ColumnWidths>
+  </RequirementList>
+  <IssueList>
+    <Columns>Description,Status,AppliesTo,AssignedTo,Priority,ResolveBy</Columns>
+    <ColumnWidths>280,72,76,90,60,80</ColumnWidths>
+  </IssueList>
+  <DictionaryList>
+    <Columns>Name,UserID,Description,Parent</Columns>
+    <ColumnWidths>130,60,320,125</ColumnWidths>
+  </DictionaryList>
+  <FilteredLists />
+  <OpenFilters />
+  <ExpandedNodes>
+    <string>Hontrète Dézuile</string>
+    <string>Hontrète Dézuile\Gérer les utilisateurs.</string>
+    <string>Hontrète Dézuile\Afficher le niveau des huiles sur les panneaux</string>
+    <string>Hontrète Dézuile\Désactiver l'alarme </string>
+    <string>Hontrète Dézuile\S'authentifier</string>
+    <string>Hontrète Dézuile\Ajouter un utilisateur</string>
+    <string>Hontrète Dézuile\Modifier un utilisateur</string>
+    <string>Hontrète Dézuile\Supprimer un utilisateur</string>
+    <string>Hontrète Dézuile\Réinitialiser le mot de passe</string>
+    <string>Hontrète Dézuile\Générer un rapport excel</string>
+    <string>Hontrète Dézuile\Stocker les données</string>
+    <string>Hontrète Dézuile\Transformer Analogique à Digital</string>
+  </ExpandedNodes>
+</ModelSettings>
